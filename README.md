@@ -1,2 +1,3 @@
 # Azure-machine-learning
-Azure Machine learning
+
+Reconhecimento facial e emoção feito com Azure machine learning. 
